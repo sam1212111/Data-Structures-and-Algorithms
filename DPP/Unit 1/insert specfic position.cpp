@@ -37,6 +37,6 @@ int main() {
 
         std::cout << "Invalid position!" << std::endl;
     }
-
+ 
     return 0;
 }
